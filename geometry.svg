@@ -1,0 +1,53 @@
+<svg width="564.924225025pt" height="449.84845005pt" viewBox="0 0 564.924225025 449.84845005" xmlns="http://www.w3.org/2000/svg">
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                processEscapes: true
+            }
+        });
+    </script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" />
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://kongwingwu.github.io/coding/geometry.css" type="text/css" />
+    <g id="line">
+        <path d="M 20 180 L 224.924225025 20 L 161.267812518 274.625650026 L 384.924225025 100 L 282.462112512 304.924225025 L 122.462112512 100 L 382.401492532 229.969690010 L 224.924225025 20 L 544.924225025 180 Z" />
+        <circle cx="282.462112512" cy="304.924225025" r="124.924225025" />
+    </g>
+    <g id="point">
+        <circle cx="224.924225025" cy="20" r="2" />
+        <circle cx="184.924225025" cy="180" r="2" />
+        <circle cx="344.924225025" cy="180" r="2" />
+        <circle cx="122.462112512" cy="100" r="2" />
+        <circle cx="384.924225025" cy="100" r="2" />
+        <circle cx="282.462112512" cy="304.924225025" r="2" />
+        <circle cx="161.267812518" cy="274.625650026" r="2" />
+        <circle cx="382.401492532" cy="229.969690010" r="2" />
+        <circle cx="282.462112512" cy="180" r="2" />
+        <circle cx="20" cy="180" r="2" />
+        <circle cx="544.924225025" cy="180" r="2" />
+    </g>
+    <g>
+        <foreignObject x="214.924225025" y="20" id="stroke">$A$</foreignObject>
+        <foreignObject x="214.924225025" y="20" id="label">$A$</foreignObject>
+        <foreignObject x="174.924225025" y="190" id="stroke">$B$</foreignObject>
+        <foreignObject x="174.924225025" y="190" id="label">$B$</foreignObject>
+        <foreignObject x="354.924225025" y="190" id="stroke">$C$</foreignObject>
+        <foreignObject x="354.924225025" y="190" id="label">$C$</foreignObject>
+        <foreignObject x="112.462112512" y="100" id="stroke">$F$</foreignObject>
+        <foreignObject x="112.462112512" y="100" id="label">$F$</foreignObject>
+        <foreignObject x="394.924225025" y="100" id="stroke">$G$</foreignObject>
+        <foreignObject x="394.924225025" y="100" id="label">$G$</foreignObject>
+        <foreignObject x="292.462112512" y="304.924225025" id="stroke">$J$</foreignObject>
+        <foreignObject x="292.462112512" y="304.924225025" id="label">$J$</foreignObject>
+        <foreignObject x="151.267812518" y="274.625650026" id="stroke">$K$</foreignObject>
+        <foreignObject x="151.267812518" y="274.625650026" id="label">$K$</foreignObject>
+        <foreignObject x="392.401492532" y="229.969690010" id="stroke">$L$</foreignObject>
+        <foreignObject x="392.401492532" y="229.969690010" id="label">$L$</foreignObject>
+        <foreignObject x="282.462112512" y="170" id="stroke">$M$</foreignObject>
+        <foreignObject x="282.462112512" y="170" id="label">$M$</foreignObject>
+        <foreignObject x="20" y="192" id="stroke">$S$</foreignObject>
+        <foreignObject x="20" y="192" id="label">$S$</foreignObject>
+        <foreignObject x="544.924225025" y="192" id="stroke">$T$</foreignObject>
+        <foreignObject x="544.924225025" y="192" id="label">$T$</foreignObject>
+    </g>
+</svg>
