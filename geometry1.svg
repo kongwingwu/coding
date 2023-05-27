@@ -1,5 +1,6 @@
 <svg width="564.924225025pt" height="449.84845005pt" viewBox="0 0 564.924225025 449.84845005" xmlns="http://www.w3.org/2000/svg">
     <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://kongwingwu.github.io/coding/geometry.css" type="text/css" />
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css" type="text/css"/>
     <g id="line">
         <path d="M 20 180 L 224.924225025 20 L 161.267812518 274.625650026 L 384.924225025 100 L 282.462112512 304.924225025 L 122.462112512 100 L 382.401492532 229.969690010 L 224.924225025 20 L 544.924225025 180 Z" />
         <circle cx="282.462112512" cy="304.924225025" r="124.924225025" />
