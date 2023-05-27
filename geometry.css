@@ -11,27 +11,20 @@
 }
 
 #label {
-    font-family: "Computer Modern Serif", serif;
-    font-size: 12pt;
-    font-style: italic;
+    font-style: normal;
     font-weight: normal;
-    text-decoration: normal;
-    text-anchor: middle;
-    dominant-baseline: middle;
+    font-size: 12pt;
+    font-family: sans-serif;
+    text-align: center;
 }
 
 #stroke {
-    stroke: white;
-    font-family: "Computer Modern Serif", serif;
-    font-size: 12pt;
-    font-style: italic;
+    font-style: normal;
     font-weight: normal;
-    text-decoration: normal;
-    text-anchor: middle;
-    dominant-baseline: middle;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    stroke-width: 1;
+    font-size: 12pt;
+    font-family: sans-serif;
+    text-align: center;
+    -webkit-text-stroke: 1pt white;
 }
 
 #aids1 {
