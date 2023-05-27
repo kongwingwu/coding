@@ -1,3 +1,8 @@
 {
-    "svg.preview.background": "transparent"
+    "svg.preview.background": "dark-transparent",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }

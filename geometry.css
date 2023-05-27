@@ -1,0 +1,44 @@
+#point {
+    stroke: black;
+    fill: white;
+}
+
+#line {
+    stroke: black;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+}
+
+#label {
+    font-family: serif;
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: normal;
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+#stroke {
+    stroke: white;
+    font-family: serif;
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: normal;
+    text-anchor: middle;
+    dominant-baseline: middle;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1;
+}
+
+#aids1 {
+    stroke: black;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1;
+    stroke-dasharray: 3, 3, 1, 3;
+    fill: none;
+}

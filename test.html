@@ -4,8 +4,22 @@
         <title>Test</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+		<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Times+New+Roman" rel="stylesheet">
         <link href="https://kongwingwu.github.io/novel/times.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
+        <style>
+            body {
+                font-family: "Computer Modern Serif", serif;
+            }
+            h1 {
+                font-family: "Computer Modern Serif", serif;
+            }
+            .p1 {
+                font-family: "Computer Modern Serif", serif;
+            }
+        </style>
         <link
             rel="apple-touch-icon-precomposed"
             sizes="114x114"
@@ -17,15 +31,24 @@
             />
     </head>
     <body>
-        <h1>Test</h1>
+        <h1>Fun Fact</h1>
         <p class="p1"><b>Maverick</b></p>
         <p class="p1">2023</p>
         <br>
-        <h2>First</h2>
-        <br>
-        <h3>Alpha</h3>
-        <br>
-        <p class="p2">Hello World!</p>
-        <p>Hello World again!</p>
+        <p class="p2">For \(x,n\in\mathbb{N}^*\), there is</p>
+    	\begin{align}
+        	f\left(n,\,x\right)
+		    &=\sum_{i_1=1}^x\left(\sum_{i_2=1}^{i_1}\left(\cdots\sum_{i_n=1}^{i_{n-1}}\left(i_n\right)\right)\right)\\
+		    &=\frac{\left(n+x\right)!}{\left(n+1\right)!\left(x-1\right)!}\\
+		    &=C_{n+x}^{n+1}.
+	    \end{align}
+        <p>And for \(x,\,n\in\mathbb{N}^*,\,n\geqslant3\), there is</p>
+    	\begin{align}
+	    	g\left(n,\,x\right)
+		    &=\prod_{i_1=1}^x\left(\prod_{i_2=1}^{i_1}\left(\cdots\prod_{i_n=1}^{i_{n-1}}\left(i_n\right)\right)\right)\\
+		    &=\prod_{i=1}^xi^{f\left(n-2,x+1-i\right)}\\
+		    &=\prod_{i=1}^xi^{C_{n+x-1-i}^{n-1}}.
+	    \end{align}
+        <p>Specially, there is \[g(1,\,x)=x!\quad\text{and}\quad{g(2,\,x)}=\prod_{i=1}^xi^{x+1-i}=\prod_{i=1}^xx!.\]</p>
     </body>
 </html>

@@ -1,0 +1,44 @@
+<svg width="564.924225025pt" height="449.84845005pt" viewBox="0 0 564.924225025 449.84845005" xmlns="http://www.w3.org/2000/svg">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://kongwingwu.github.io/coding/geometry.css" type="text/css" />
+    <g id="line">
+        <path d="M 20 180 L 224.924225025 20 L 161.267812518 274.625650026 L 384.924225025 100 L 282.462112512 304.924225025 L 122.462112512 100 L 382.401492532 229.969690010 L 224.924225025 20 L 544.924225025 180 Z" />
+        <circle cx="282.462112512" cy="304.924225025" r="124.924225025" />
+    </g>
+    <g id="point">
+        <circle cx="224.924225025" cy="20" r="2" />
+        <circle cx="184.924225025" cy="180" r="2" />
+        <circle cx="344.924225025" cy="180" r="2" />
+        <circle cx="122.462112512" cy="100" r="2" />
+        <circle cx="384.924225025" cy="100" r="2" />
+        <circle cx="282.462112512" cy="304.924225025" r="2" />
+        <circle cx="161.267812518" cy="274.625650026" r="2" />
+        <circle cx="382.401492532" cy="229.969690010" r="2" />
+        <circle cx="282.462112512" cy="180" r="2" />
+        <circle cx="20" cy="180" r="2" />
+        <circle cx="544.924225025" cy="180" r="2" />
+    </g>
+    <g>
+        <text x="214.924225025" y="20" id="stroke">A</text>
+        <text x="214.924225025" y="20" id="label">A</text>
+        <text x="174.924225025" y="190" id="stroke">B</text>
+        <text x="174.924225025" y="190" id="label">B</text>
+        <text x="354.924225025" y="190" id="stroke">C</text>
+        <text x="354.924225025" y="190" id="label">C</text>
+        <text x="112.462112512" y="100" id="stroke">F</text>
+        <text x="112.462112512" y="100" id="label">F</text>
+        <text x="394.924225025" y="100" id="stroke">G</text>
+        <text x="394.924225025" y="100" id="label">G</text>
+        <text x="292.462112512" y="304.924225025" id="stroke">J</text>
+        <text x="292.462112512" y="304.924225025" id="label">J</text>
+        <text x="151.267812518" y="274.625650026" id="stroke">K</text>
+        <text x="151.267812518" y="274.625650026" id="label">K</text>
+        <text x="392.401492532" y="229.969690010" id="stroke">L</text>
+        <text x="392.401492532" y="229.969690010" id="label">L</text>
+        <text x="282.462112512" y="170" id="stroke">M</text>
+        <text x="282.462112512" y="170" id="label">M</text>
+        <text x="20" y="192" id="stroke">S</text>
+        <text x="20" y="192" id="label">S</text>
+        <text x="544.924225025" y="192" id="stroke">T</text>
+        <text x="544.924225025" y="192" id="label">T</text>
+    </g>
+</svg>
